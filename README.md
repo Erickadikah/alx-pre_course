@@ -1,2 +1,1 @@
-# My first readme
-#erickadikah
+# My first README
